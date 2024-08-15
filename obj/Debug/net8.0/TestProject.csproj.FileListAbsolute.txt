@@ -12,3 +12,4 @@ C:\Users\Aphiwe Sikhuphela\C# Projects\CSharpProjects\TestProject\obj\Debug\net8
 C:\Users\Aphiwe Sikhuphela\C# Projects\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\Aphiwe Sikhuphela\C# Projects\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\Aphiwe Sikhuphela\C# Projects\CSharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\Aphiwe Sikhuphela\C# Projects\CSharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
